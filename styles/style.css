@@ -1,0 +1,95 @@
+h1{
+
+ color: rgba(36, 46, 80, 0.993);   
+ font-size: 70 px;
+ 
+}
+
+h2{
+
+    color: rgb(37, 37, 28);   
+    font-size: 30 px;
+    
+}
+
+h3{
+
+    color: rgb(179, 24, 13);   
+    font-size: 30 px;
+    
+}
+
+body {
+    background-color: #610c0c52;
+  }
+
+.sub-heading{
+
+
+    color: rgb(29, 15, 43);
+    font-style: inherit;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1500;
+}
+
+.container-image{
+        width: 300px; /* Set the desired width */
+        height: 60%; /* Maintain the aspect ratio */
+    
+      }
+
+      .container-image {
+        position: relative;
+        top: 50px;
+        left: 70px;
+        float: left;
+    
+      }      
+
+      .lady-top{
+        width: 300px; /* Set the desired width */
+        height: 60%; /* Maintain the aspect ratio */
+    
+      }
+.navigation{
+
+color: blue;
+
+}
+
+.nav-bar{
+
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(30, 172, 172);
+}
+.links {
+
+font-size: x-large;
+}
+
+.buton{
+background-color: rgb(126, 32, 79);
+min-height: 100%;
+
+}
+
+.cont{
+
+  background-color: rgb(126, 32, 79);
+min-height: 100%;
+}
+
+.servi{
+
+  background-color: rgb(126, 32, 79);
+  min-height: 100%;
+}
+
+.Ord{
+
+  background-color: rgb(126, 32, 79);
+  min-height: 100%;
+  display: flexbox;
+}
+
